@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Django</p>
+<p align="left">📚 I'm currently learning Django and Nodejs </p>
 
 ###
 
